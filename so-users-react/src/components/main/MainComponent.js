@@ -40,7 +40,7 @@ class MainComponent extends Component{
             );
         }
 
-        return (<div></div>);
+        return (<h3 styles={errorStyles}>Error retrieving users.</h3>);
     }
 }
 

@@ -26,6 +26,6 @@
     "expect": "^21.2.1",
     "moxios": "^0.4.0",
     "react-test-renderer": "^16.0.0",
-    "sinon": "^4.0.1"
+    "redux-test-utils": "^0.1.3"
   }
 }
