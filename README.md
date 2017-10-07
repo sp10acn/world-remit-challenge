@@ -1,4 +1,4 @@
-# WorldRemit Challenge
+# WorldRemit Challenge (Sam Phillips)
 
 ## StackOverflow users
 Develop a mini website with a page that fetches a list of
