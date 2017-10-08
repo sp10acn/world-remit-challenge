@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { CircularProgress, List, ListItem, Avatar, Subheader } from 'material-ui';
+import CircularProgress from 'material-ui/CircularProgress';
+import List from 'material-ui/List';
+import ListItem from 'material-ui/List';
+import Avatar from 'material-ui/Avatar';
+import Subheader from 'material-ui/Subheader';
 
 class MainComponent extends Component{
     render(){
